@@ -1,10 +1,4 @@
-//
-//  Quiz_FinalTests.m
-//  Quiz_FinalTests
-//
-//  Created by MANAN PANDYA on 2014-06-14.
-//  Copyright (c) 2014 Pandya. All rights reserved.
-//
+
 
 #import <XCTest/XCTest.h>
 

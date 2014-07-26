@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Questions</key>
+	<array>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>who won fifa worldcup 2014 ?</string>
+			<key>A</key>
+			<string>Germany</string>
+			<key>B</key>
+			<string>Argentina</string>
+			<key>C</key>
+			<string>Brazil</string>
+			<key>D</key>
+			<string>Japan</string>
+			<key>QuestionAnswer</key>
+			<string>Germany</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Who won cricket worldcup 2011?</string>
+			<key>A</key>
+			<string>England</string>
+			<key>B</key>
+			<string>Canada</string>
+			<key>C</key>
+			<string>India</string>
+			<key>D</key>
+			<string>ShriLanka</string>
+			<key>QuestionAnswer</key>
+			<string>India</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of india?</string>
+			<key>A</key>
+			<string>Banglore</string>
+			<key>B</key>
+			<string>Delhi</string>
+			<key>C</key>
+			<string>Goa</string>
+			<key>D</key>
+			<string>Mumbai</string>
+			<key>QuestionAnswer</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Which app has been bought by facebook?</string>
+			<key>A</key>
+			<string>WeChat</string>
+			<key>B</key>
+			<string>WhatsApp</string>
+			<key>C</key>
+			<string>Line</string>
+			<key>D</key>
+			<string>Tango</string>
+			<key>QuestionAnswer</key>
+			<string>WhatsApp</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>For which of the following disciplines is Nobel Prize awarded?</string>
+			<key>A</key>
+			<string>Physics</string>
+			<key>B</key>
+			<string>Medicine
+Physiology or Medicine
+</string>
+			<key>C</key>
+			<string>Economics</string>
+			<key>D</key>
+			<string>All of above</string>
+			<key>QuestionAnswer</key>
+			<string>All of above</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>how many stars consists in U.S. flag  ?</string>
+			<key>A</key>
+			<string>51</string>
+			<key>B</key>
+			<string>48</string>
+			<key>C</key>
+			<string>50</string>
+			<key>D</key>
+			<string>52</string>
+			<key>QuestionAnswer</key>
+			<string>50</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>What is the Capital of Canada?</string>
+			<key>A</key>
+			<string>Ottawa</string>
+			<key>B</key>
+			<string>Ontario</string>
+			<key>C</key>
+			<string>Quebec</string>
+			<key>D</key>
+			<string>Calgury</string>
+			<key>QuestionAnswer</key>
+			<string>Ottawa</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Who won best movie in oscar 2014?</string>
+			<key>A</key>
+			<string>12 years a slave</string>
+			<key>B</key>
+			<string>Her</string>
+			<key>C</key>
+			<string>Gravity</string>
+			<key>D</key>
+			<string>The wolf of street</string>
+			<key>QuestionAnswer</key>
+			<string>12 years a slave</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Tiger woods is from which game?</string>
+			<key>A</key>
+			<string>Cricket</string>
+			<key>B</key>
+			<string>Baseball</string>
+			<key>C</key>
+			<string>Golf</string>
+			<key>D</key>
+			<string>Tennis</string>
+			<key>QuestionAnswer</key>
+			<string>Golf</string>
+		</dict>
+		<dict>
+			<key>QuestionTitle</key>
+			<string>Wimbledon 2014 winner is?</string>
+			<key>A</key>
+			<string>Roger Federer</string>
+			<key>B</key>
+			<string>Rafeal Nadal</string>
+			<key>C</key>
+			<string>Novak Djocovick</string>
+			<key>D</key>
+			<string>Andy Murray</string>
+			<key>QuestionAnswer</key>
+			<string>Novak Djocovick</string>
+		</dict>
+	</array>
+</dict>
+</plist>
